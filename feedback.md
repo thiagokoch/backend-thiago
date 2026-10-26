@@ -1,3 +1,3 @@
-Feedback - Aula 02 e Aula 03
+# Feedback - Aula 02
 
-Thiago, na aula 2 e na aula 3 você não entregou nada, ficou só no commit inicial do template. Nota 0,00 nas duas.
+Thiago, não apareceu nenhuma mudança no seu repositório, está tudo como veio de fábrica. Precisa das cinco rotas da aula 2 funcionando. As notas saem sexta-feira, esse é o tempo que falta. Sem entrega até lá, fica zero.
